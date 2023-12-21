@@ -30,9 +30,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"  />
-
+<div align="center">
+<img height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"  />
+</div>
 ###
 
 <div align="center">
