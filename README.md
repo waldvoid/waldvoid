@@ -31,12 +31,12 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=waldvoid&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=waldvoid&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
