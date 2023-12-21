@@ -28,9 +28,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
+
 ###
-###
-<img height="150" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"  />
+
+<img align="left" height="200" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif"  />
+
 ###
 
 <div align="center">
