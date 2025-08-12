@@ -12,13 +12,6 @@
 
 <img src="https://raw.githubusercontent.com/waldvoid/waldvoid/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/waldvoid/count.svg?"  />
-</div>
-
-###
 
 <br clear="both">
 
